@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)NKMDB
 
 import asyncio
 from pyrogram import filters, Client
