@@ -13,7 +13,7 @@ from config import API_HASH, APP_ID, LOGGER, TG_BOT_TOKEN, TG_BOT_WORKERS, FORCE
 
 
 name ="""
-Bot Successfully Started ♨️
+   @NKMDB ♨️
 """
 
 
