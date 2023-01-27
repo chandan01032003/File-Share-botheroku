@@ -135,7 +135,7 @@ python3 main.py
 
 
 ## Support   
-Join Our [Telegram Group](https://www.telegram.dog/NKMDB) For Support/Assistance And Our [Channel](https://www.telegram.dog/Cinema_Rocketd) For Updates.   
+Join Our [Telegram Group](https://www.telegram.dog/NKMDB) For Support/Assistance And Our [Channel](https://www.telegram.dog/Cinema_Rockets) For Updates.   
    
 Report Bugs, Give Feature Requests There..   
 
