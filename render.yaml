@@ -42,11 +42,11 @@ services:
 
         sync: false 
 
-      - key: START_MESSAGE 
+      - key: START_MESSAGE me 
 
         sync: false
 
-      - key: ADMIN 
+      - key: ADMINS
 
         sync: false    
 
