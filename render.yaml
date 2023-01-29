@@ -4,7 +4,7 @@ services:
 
     plan: free
 
-    name: PYRO-RENAME-BOT
+    name: FileShare
 
     env: python
 
@@ -12,7 +12,7 @@ services:
 
     startCommand: python bot.py
 
-    repo: https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT.git      
+    repo: https://github.com/Maheshbot99/FileShare.git      
 
     branch: main
 
