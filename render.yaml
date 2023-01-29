@@ -30,7 +30,7 @@ services:
 
         sync: false
 
-      - key: FORCE_SUB 
+      - key: FORCE_SUB_CHANNEL 
 
         sync: false
 
