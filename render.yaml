@@ -42,7 +42,7 @@ services:
 
         sync: false 
 
-      - key: START_MESSAGE me 
+      - key: START_MESSAGE 
 
         sync: false
 
