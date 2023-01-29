@@ -50,7 +50,7 @@ services:
 
         sync: false    
 
-      - key: 
+      - key: FORCE_SUB_MESSAGE
 
         sync: false    
 
